@@ -3,7 +3,7 @@
 #include "libc/stdbool.h"
 #include <multiboot2.h>
 
-
+//comment
 
 struct multiboot_info {
     uint32_t size;
